@@ -18,4 +18,8 @@ Additionally, Alpha Vintage also provides the STOCH index data. By definition, s
 
 - 10/15/2019: Obtained data from NYTimes Developers API and carried the sentimental analysis on the new data
 
-- 10/16/2019: Preparing data visualization using Jupyter Notebook
+- 10/16/2019: Prepared data visualization using Jupyter Notebook
+
+- 10/17/2019 - 11/10/2019: Model Building and Optimization
+
+- 11/11/2019 - 11/18/2019: Added Twitter parameters to the final dataframe and built a new model with new added data. Optimization
