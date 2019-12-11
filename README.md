@@ -23,3 +23,7 @@ Additionally, Alpha Vintage also provides the STOCH index data. By definition, s
 - 10/17/2019 - 11/10/2019: Model Building and Optimization
 
 - 11/11/2019 - 11/18/2019: Added Twitter parameters to the final dataframe and built a new model with new added data. Optimization
+
+- 12/9/2019 - Prepare for final presentation
+
+- 12/12/2019 - Final presentation
