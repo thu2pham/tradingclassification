@@ -6,7 +6,7 @@ from pathlib import Path
 import time
 import os
 
-api = "uwli6OeGx45lNnNGGCtEKtv9hlT9lnzi"
+api = ""
 
 
 def download_json(year, month, api):
