@@ -27,3 +27,7 @@ Additionally, Alpha Vintage also provides the STOCH index data. By definition, s
 - 12/9/2019 - Prepare for final presentation
 
 - 12/12/2019 - Final presentation
+
+# 3. Acknowledgement
+
+- [BenjiKCF Github](https://github.com/BenjiKCF/Neural-Net-with-Financial-Time-Series-Data/blob/master/1.%20NY_Times_downloader.ipynb) for New York Times downloader
